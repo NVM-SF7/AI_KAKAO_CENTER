@@ -1,0 +1,8 @@
+langchain
+streamlit 
+python-dotenv
+openai
+langchain_community
+crewai
+"crewai[tools]"
+base-64
